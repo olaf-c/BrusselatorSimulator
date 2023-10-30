@@ -6,12 +6,12 @@
 </ul>
 
 ## Background
-  Brusselators are models for reactions that produce a catalyst for the same reaction, i.e. autocatalytic reactions. This includes the clock reaction, or the Belousov–Zhabotinsky reaction (BZ reaction). 
+  Brusselators are models for reactions that produce a catalyst for the same reaction, i.e. autocatalytic reactions. This includes the clock reaction, or the Belousov–Zhabotinsky reaction [(BZ reaction).](https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction#/media/File:Bzr_raum.jpg)
   This is a popular reaction for demonstrations as the potassium bromate, malonic acid, and manganese sulfate prepared in a heated solution of sulfuric acid produce an engaging psychedelic pattern. 
   However, this reaction can be difficult to demonstrate in some settings due to the need for proper safety equipment to handle the strong acids involved. 
   This program provides a method of demonstrating brusselator reactions without needing chemistry supplies. 
 
-  The users will interact with a GUI interface which will display an [animation](https://en.wikipedia.org/wiki/Brusselator#/media/File:Brusselator_space.gif)
+  The users will interact with a GUI interface which will display an [animation](https://en.wikipedia.org/wiki/Brusselator#/media/File:Brusselator_space.gif) of an autocatalytic reaction. 
 ## User Profile
 <ul>
   <li> <b> Teachers </b> - The primary user of the program are expected to be high school teachers. These users require engaging visuals for the program to be worth running for their class. They are expected to understand the underlying equations. They are also expected to have some understanding of python such as the ability to pip install the package and run the program from the terminal.
