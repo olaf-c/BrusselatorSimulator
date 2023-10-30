@@ -14,7 +14,7 @@
   The users will interact with a GUI interface which will display an [animation](https://en.wikipedia.org/wiki/Brusselator#/media/File:Brusselator_space.gif)
 ## User Profile
 <ul>
-  <li> <b> Teachers </b> - The primary user of the program are expected to be high school teachers. These users require engaging visuals for the program to be worth running for their class. They are expected to understanding the underlying equations and potentially have some understanding of python. 
+  <li> <b> Teachers </b> - The primary user of the program are expected to be high school teachers. These users require engaging visuals for the program to be worth running for their class. They are expected to understand the underlying equations. They are also expected to have some understanding of python such as the ability to pip install the package and run the program from the terminal.
   </li>
   <li>
     <b> Enthusiasts </b> - Users who wish to interact with the brusselator reaction in the comfort of their own home. These users are not expected to know python or the underlying chemical reactions. 
