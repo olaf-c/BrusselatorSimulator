@@ -6,8 +6,8 @@
 </ul>
 
 ## Background
-  Brusselators are models for reactions that produce a catalyst for the same reaction, i.e. autocatalytic reactions. This includes the clock reaction, or the Belousov–Zhabotinsky reaction [(BZ reaction).](https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction#/media/File:Bzr_raum.jpg)
-  This is a popular reaction for demonstrations as the potassium bromate, malonic acid, and manganese sulfate prepared in a heated solution of sulfuric acid produce an engaging psychedelic pattern. 
+  Brusselators are models for reactions that produce a catalyst for the same reaction, i.e. autocatalytic reactions. This includes the clock reaction, or the Belousov–Zhabotinsky reaction (BZ reaction).
+  This is a popular reaction for demonstrations as the potassium bromate, malonic acid, and manganese sulfate prepared in a heated solution of sulfuric acid produce an engaging [psychedelic pattern.](https://en.wikipedia.org/wiki/Belousov%E2%80%93Zhabotinsky_reaction#/media/File:Bzr_raum.jpg)
   However, this reaction can be difficult to demonstrate in some settings due to the need for proper safety equipment to handle the strong acids involved. 
   This program provides a method of demonstrating brusselator reactions without needing chemistry supplies. 
 
