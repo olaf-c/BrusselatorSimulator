@@ -24,9 +24,9 @@
 ## Use Cases 
 <ul>
   <li>
-    <b>Educational Use </b> - In a classroom, this software can be used to replace the more risky chemical reactions or to supplement the demonstration. To aid their presentation, these teachers may want to adjust the reaction rates beyond what are normally found.
+    <b>Classroom Use </b> - In a classroom, this software can be used to replace the more risky chemical reactions or to supplement the demonstration. To aid their presentation, these teachers may want to adjust the reaction rates beyond what are normally found.
   </li>
   <li>
-    <b>Recreational Use </b> - At home, this software can be used to visualize brusselators through a simple GUI. This software will be an independent package that will not require a python installation. 
+    <b>Self Study Use </b> - At home, this software can be used to visualize brusselators through a simple GUI. This software will be an independent package that will not require a python installation. 
   </li>
 </ul>
