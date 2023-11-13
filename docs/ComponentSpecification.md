@@ -9,12 +9,12 @@ Core Dependencies
 - To manage file structure: import os
 
 Components:
-- display GUI
+- Display GUI
    - Requires default values
    - outputs starting animation values
-- display animation
+- Display animation
    - Requires animation values across a time series
-- calculate animation values
+- Calculate animation values
    - Requires starting animation values
    - outputs animation values across a time series
 
